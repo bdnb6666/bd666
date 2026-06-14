@@ -1,0 +1,16 @@
+[
+  {
+    "name": "示例节点1",
+    "server": "example.com",
+    "port": 443,
+    "password": "your_password_here",
+    "type": "hysteria2"
+  },
+  {
+    "name": "示例节点2",
+    "server": "example2.com",
+    "port": 8443,
+    "password": "your_password_here",
+    "type": "vless"
+  }
+]
